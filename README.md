@@ -13,7 +13,7 @@ sudo git clone https://github.com/mraravindtech/clock.git
 
 sudo apt install python3
 
-sudo python3 passwordgen.py
+sudo python3 clock.py
 
 ************************************
 
